@@ -9,7 +9,7 @@
   "isExternalTool": true,
   "pluginIcon": "icon_plugin_xs.png",
   "price": 0.00,
-  "description": "Quarticon Recomendation Engine",
+  "description": "AI-based tool which makes your online shop display products tailored to each customer’s individual needs, expectations and interests.",
   "shortDescription": {
     "de": "KI-basiertes Tool, mit dem Ihr Online-Shop Produkte anzeigt, die auf die individuellen Bedürfnisse, Erwartungen und Interessen jedes Kunden zugeschnitten sind.",
     "en": "AI-based tool which makes your online shop display products tailored to each customer’s individual needs, expectations and interests."
@@ -21,17 +21,17 @@
   ],
   "author": "Quarticon S.A",
   "authorIcon": "icon_author_xs.png",
-  "email": "sales@quarticon.com",
+  "email": "adrian.bera@quarticon.com",
   "phone": "+48 884 636 875",
   "keywords": [
-    "plentymarkets",
-    "plugins",
-    "layout",
+    "quarticon",
+    "AI",
+    "Recomendation engine",
     "template"
   ],
   "type": "tool",
   "directDownloadLinks": {},
-  "forwardLink": "https://platforms.quarticon.com/plenty_markets",
+  "forwardLink": "https://platforms.quarticon.com/plentymarkets",
   "require": [],
   "namespace": "Quarticon",
   "serviceProvider": "",
