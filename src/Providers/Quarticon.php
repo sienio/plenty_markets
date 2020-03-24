@@ -10,7 +10,7 @@ use Plenty\Plugin\Templates\Twig;
  * Class ExternalToolServiceProvider
  * @package ExternalTool\Providers
  */
-class ExternalToolServiceProvider extends ServiceProvider
+class Quarticon extends ServiceProvider
 {
     /**
      * Register the core functions
